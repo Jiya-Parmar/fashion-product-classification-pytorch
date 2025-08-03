@@ -106,8 +106,6 @@ python predict.py --image_path /path/to/your/image.jpg
 ## Results
 The fine-tuned model demonstrates strong performance on real-world product images, validating the transfer learning approach. The training process effectively adapted the pre-trained weights to the new domain, achieving high accuracy on the specific e-commerce categories.
 
-*(Optional: Add a screenshot here of a correct prediction, e.g., your sneaker image being identified as "Shoes".)*
-
 ---
 
 ## Future Improvements
